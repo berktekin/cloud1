@@ -10,7 +10,7 @@
 
 $host = 'attendance1-mysqldbserver.mysql.database.azure.com';
 $username = 'mysqldbuser@attendance1-mysqldbserver';
-$password = 'admin';
+$password = 'Brk1997brk';
 $db_name = 'DATABASE';
 
 //Establishes the connection
