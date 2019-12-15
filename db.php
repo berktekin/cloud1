@@ -7,7 +7,7 @@
 	*/
 	// define('DATABASE', 'mssql'); 
 
-	<?php
+
 $host = 'attendance1-mysqldbserver.mysql.database.azure.com';
 $username = 'mysqldbuser@attendance1-mysqldbserver';
 $password = 'admin';
@@ -232,3 +232,4 @@ mysqli_close($conn);
 				return mysqli_error($link);
 		}
 	}
+?>
