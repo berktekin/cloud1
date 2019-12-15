@@ -11,7 +11,7 @@
 $host = 'attendance1-mysqldbserver.mysql.database.azure.com';
 $username = 'mysqldbuser@attendance1-mysqldbserver';
 $password = 'Brk1997brk';
-$db_name = 'attendance_management.sql';
+$db_name = 'attendance_management';
 
 //Establishes the connection
 $conn = mysqli_init();
